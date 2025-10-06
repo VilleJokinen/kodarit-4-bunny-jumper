@@ -1,0 +1,25 @@
+{
+  "name": "kodarit-4-bunny-jumper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VilleJokinen/kodarit-4-bunny-jumper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VilleJokinen/kodarit-4-bunny-jumper/issues"
+  },
+  "homepage": "https://github.com/VilleJokinen/kodarit-4-bunny-jumper#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "type": "module"
+}
